@@ -9,7 +9,7 @@
           <b-nav-item-dropdown :text="primeiroNome" right>
             <b-dropdown-item href="perfil">Perfil</b-dropdown-item>
             <b-dropdown-item href="#" @click.prevent="logout"
-              >Sair</b-dropdown-item
+              >Sair </b-dropdown-item
             >
           </b-nav-item-dropdown>
         </b-navbar-nav>
